@@ -1,6 +1,6 @@
 import random;
 
-LIST_WORDS = ['Elephant', 'Python', 'Anaconda', 'Jazz', 'Keyboard'];
+LIST_WORDS = ['Elephant', 'Python', 'Anaconda', 'Jazz', 'Keyboard', 'Dictionary', 'Length', 'Pixel', 'Quiz', 'Quest'];
 
 def chooseWords():
     return random.choice(LIST_WORDS);
